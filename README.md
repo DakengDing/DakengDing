@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 65%" />
+</div>  
+
 ![Visitor Count](https://profile-counter.glitch.me/DakengDing/count.svg)
 ### Hi there, I'm Yuzhe Liu - aka [DakengDing] 👋 
 
