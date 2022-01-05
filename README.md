@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, and EVEer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer and an intership!
+- 👯 I’m looking to collaborate with other developer and an internship!
 - 🥅 2022 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I have played EVE online about 10 years 
 
