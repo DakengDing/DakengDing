@@ -1,5 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/DakengDing/count.svg)
-### Hi there, I'm Yuzhe Liu - aka [DakengDing][website] 👋 
+### Hi there, I'm Yuzhe Liu - aka [DakengDing] 👋 
 
 
 
